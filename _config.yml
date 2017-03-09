@@ -1,5 +1,5 @@
 title:            Cycoe's Personal Blog
-description:      Describe your website here.
+description:      Cycoe's Personal Blog.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -16,7 +16,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         cycoe
   stackexchange:  
   linkedin:       
   instagram:      
